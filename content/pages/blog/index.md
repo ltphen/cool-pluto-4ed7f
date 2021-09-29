@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Our academy articles
 subtitle: The future of school happens here
 hide_title: false
 col_number: three
