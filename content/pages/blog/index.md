@@ -1,6 +1,6 @@
 ---
 title: Blog
-subtitle: 'News, tips and highlights'
+subtitle: The future of school happens here
 hide_title: false
 col_number: three
 seo:
